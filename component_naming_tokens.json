@@ -1,0 +1,14 @@
+{
+    "data": {
+        "MISSION": "Mission identifier",
+        "LEVEL": "Product level",
+        "ADATE": "Acquisition date",
+        "ATIME": "Acquisition time",
+        "BASELINE": "Processing baseline",
+        "ORBIT": "Relative orbit",
+        "TILE": "UTM tile",
+        "DISCRIMINATOR": "Product discriminator"
+    },
+    "message": null,
+    "status": "SUCCEEDED"
+}
