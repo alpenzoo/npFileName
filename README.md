@@ -9,4 +9,4 @@ The library is buildt as a jQuery plug-in.
 
 ## Example use
 
-Is pretty simple to use, check sample file
+Is pretty simple to use, check sample file or try: https://alpenzoo.github.io/npFileName/
