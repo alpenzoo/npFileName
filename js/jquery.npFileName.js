@@ -132,7 +132,7 @@ var npDOMhelper = {
 	var _tkn = function(){
 		var navigationKeys = ["ArrowRight", "ArrowLeft", "ArrowUp", "ArrowDown", "End", "Home", "Right", "Left", "Up", "Down"];
 		var modifierKeys = ["Shift", "Control"];
-		var allowedKeys = ["Delete", "Backspace","$",".",":","{","}"];
+		var allowedKeys = ["Delete","Tab","Backspace","$",".",":","{","}"];
 		var trackedTokens = {
 			"ltr"		: "Literal",
 			"vbsm"		: "Variable block start marker",
